@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+ul,ol,li{
+    text-decoration: none;
+    color: inherit;
+}
+body{
+    padding: 0px 80px;
+   
+}
+header{
+    height: 60px;
+    width: calc(100% - 160px);
+    position: fixed;
+    top: 60px;
+    background-color: lightblue;
+}
+main{
+    height: 700px; /* Temporario */
+    background-color: tomato;
+}
+footer{
+    height: 526px;
+    background-color: pink;
+}
